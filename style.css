@@ -180,3 +180,55 @@ body{
     padding: 0.5em 0.5em;
 
 }
+.topicos{
+    background: rgb(57, 137, 190);
+    text-align: center;
+    padding: 2em 0;
+    margin: 2em;
+
+}
+.titulos-topicos{
+    color: rgb(175, 209, 224);
+    font-size: 25px;
+    font-weight: 700;
+    padding: 2em;
+    margin: 6px;
+}
+.topicos-listas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.topicos-link{
+    color: #7499e4;
+    padding: 2em;
+    background-color: black;
+    font-size: 14px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.rodape{
+    font-size: 1em;
+    font-weight: 400;
+}
+.contato-titulo{
+    font-size: 2em;
+    font-weight: 700;
+}
+.contato-texto{
+    font-size: 20px;
+    font-weight: 500;
+}
+.contato-email{
+    padding: 1em;
+    border-radius: 25px;
+    border: 5px solid rgb(19, 123, 243); 
+    width: 40%;
+    color: #002F52;
+    background-position: 1em;
+    text-align: center;
+    font-size: 25px;
+    width: 20%;
+    height: 16px;
+    margin: auto;
+}
